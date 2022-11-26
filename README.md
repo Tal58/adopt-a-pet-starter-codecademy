@@ -59,7 +59,7 @@ Project aims to create a adopt a pet starter app by Codecademy. In addition all 
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-🔗 <b>To see the live version https://firebase-database-contact-app.netlify.app/<b>
+🔗 <b>To see the live version https://adopt-a-pet-petlover.netlify.app/<b>
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
