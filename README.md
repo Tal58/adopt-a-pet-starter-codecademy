@@ -64,10 +64,10 @@ Project aims to create a adopt a pet starter app by Codecademy. In addition all 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
 <br><br>
-🌐 The desktop and mobile versions of the web page are as follows;🧭
+🌐 The desktop version of the web page are as follows;🧭
 <br><br>
 
-## 🖥️Desktop version (ADD operations on todo app-left side shows server)
+## 🖥️Desktop version 
 
 <br>
 <img src="./images/desktop.gif" align="left" alt="desktop_version">
